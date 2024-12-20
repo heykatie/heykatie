@@ -3,7 +3,8 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/heykatie/count.svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=heykatie&color=008080)
+![Profile Views](https://komarev.com/ghpvc/?username=heykatie&color=008080&label=curious+friends)
+<!-- style=for-the-badge -->
 
 <!--
 **heykatie/heykatie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
