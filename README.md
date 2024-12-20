@@ -1,6 +1,7 @@
-## Hi there 👋
+## Hey, I'm Katie Leong 👋
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=heykatie.profile)
+![Visitor Count](https://profile-counter.glitch.me/heykatie/count.svg)
+
 <!--
 **heykatie/heykatie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
