@@ -1,34 +1,44 @@
 ## Hey friends, I'm Katie. 💕
 
-Welcome to my digital universe! 🚀 I’m a **Fullstack Developer** with a passion for crafting creative, immersive, and sometimes futuristic web experiences. I thrive on solving complex problems and building platforms that connect people in meaningful ways. 🌌
+Welcome to my digital universe! 🚀 I’m a **Fullstack Developer** with a passion for crafting creative, immersive, and sometimes futuristic web experiences. I thrive on solving complex problems and building platforms that connect people in meaningful ways.
 
 When I'm not coding, you can find me:
-- 🐕 Exploring the great outdoors via hiking, paddleboarding, or chasing waterfalls with my two loyal companions (a husky & wolfdog)
-- 🌄 Exploring the great outdoors via hiking, paddleboarding, or chasing waterfalls
+- 🌄 Exploring the great outdoors via hiking, paddleboarding, or chasing waterfalls with my two loyal companions (husky & wolfdog)
 - 💭 Philosophizing about tech, psychology, and the mysteries of the universe
 
-I'm currently learning **advanced React & Flask** at [App Academy](https://www.appacademy.io/) and working on a fullstack project called **Sage** —
+I'm currently learning **advanced React & Flask** at [App Academy](https://www.appacademy.io/) and working on a fullstack project called **Sage** — with a wonderful team.
 
-**Fun fact**: I have 5 cats and a dream to be an audiophile with high-end speakers 🎧.
+<!-- **Fun fact**: I have 5 cats and a dream to make a difference. -->
 
 ## 📫 Let's Connect!
-- **Portfolio**: [katieleong.dev](https://katieleong.dev)
+- **Portfolio**: [heykatie.github.io](https://heykatie.github.io/)
 - **GitHub**: [github.com/heykatie](https://github.com/heykatie)
 - **LinkedIn**: [linkedin.com/in/katieleonght](https://www.linkedin.com/in/katieleonght/)
 
 ## 🚀 Open to Opportunities
 I’m actively looking for **fullstack developer roles** and freelance work. If you'd like to collaborate or just chat, feel free to [connect with me on LinkedIn](https://www.linkedin.com/in/katieleonght/).
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/katieleonght/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/heykatie)
 
 
 ## 🛠️ My Tech Stack
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 🖥️ Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+<!-- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white) -->
+
+# 🔥 Backend
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-F80000?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
 
 ## 🛠️ Tech & Tools
 - **Languages**: Python, JavaScript, SQL, HTML/CSS
@@ -53,6 +63,9 @@ I’m actively looking for **fullstack developer roles** and freelance work. If 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=heykatie&color=008080&label=paw+prints)
 <!-- style=for-the-badge -->
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/katieleonght/)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/heykatie)
 
 <!--
 **heykatie/heykatie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
