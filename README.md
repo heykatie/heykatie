@@ -1,4 +1,4 @@
-## Hey, I'm Katie Leong 👋
+## Hey, I'm Katie ✨(づ｡◕‿‿◕｡)づⰔ*🌱
 
 ![Visitor Count](https://profile-counter.glitch.me/heykatie/count.svg)
 
