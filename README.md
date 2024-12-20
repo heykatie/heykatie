@@ -1,5 +1,6 @@
 ## Hey friends, I'm Katie. 💕
 
+![Visitor Count](https://profile-counter.glitch.me/heykatie/count.svg)
 Welcome to my digital universe! 🚀 I’m a **Fullstack Developer** with a passion for crafting creative, immersive, and sometimes futuristic web experiences. I thrive on solving complex problems and building platforms that connect people in meaningful ways.
 
 When I'm not coding, you can find me:
@@ -11,7 +12,7 @@ I'm currently learning **advanced React & Flask** at [App Academy](https://www.a
 <!-- **Fun fact**: I have 5 cats and a dream to make a difference. -->
 
 
-## 🚀 Open to Opportunities
+## 🚀 Open to Opportunities [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/katieleonght/) [![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/heykatie)
 I’m actively looking for **fullstack developer roles** and freelance work. If you'd like to collaborate or just chat, feel free to [connect with me on LinkedIn](https://www.linkedin.com/in/katieleonght/).
 
 ### 📫 Let's Connect!
@@ -54,19 +55,14 @@ I’m actively looking for **fullstack developer roles** and freelance work. If 
 
 ## 📈 My GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=heykatie&show_icons=true&theme=radical)
-![Trophy](https://github-profile-trophy.vercel.app/?username=heykatie&theme=radical)
+<!-- ![Trophy](https://github-profile-trophy.vercel.app/?username=heykatie&theme=radical) -->
 
 ## 🔥 My Streak
 ![GitHub Streak](https://streak-stats.demolab.com/?user=heykatie&theme=dark)
 
 
-![Visitor Count](https://profile-counter.glitch.me/heykatie/count.svg)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=heykatie&color=008080&label=paw+prints)
 <!-- style=for-the-badge -->
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/katieleonght/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/heykatie)
 
 <!--
 **heykatie/heykatie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
