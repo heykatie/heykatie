@@ -1,4 +1,4 @@
-## Hey, I'm Katie ✨(づ｡◕‿‿◕｡)づⰔ*🌱
+## Hey, I'm Katie. 💕
 
 ![Visitor Count](https://profile-counter.glitch.me/heykatie/count.svg)
 
