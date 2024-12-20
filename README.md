@@ -48,6 +48,9 @@ I’m actively looking for **fullstack developer roles** and freelance work. If 
 - **Databases**: PostgreSQL, SQLite
 - **Other Tools**: Docker, AWS, Git, Postman, VS Code
 
+## 📊 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heykatie&layout=compact&theme=dark)
+
 
 ## 📈 My GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=heykatie&show_icons=true&theme=radical)
@@ -55,9 +58,6 @@ I’m actively looking for **fullstack developer roles** and freelance work. If 
 
 ## 🔥 My Streak
 ![GitHub Streak](https://streak-stats.demolab.com/?user=heykatie&theme=dark)
-
-## 📊 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heykatie&layout=compact&theme=dark)
 
 
 ![Visitor Count](https://profile-counter.glitch.me/heykatie/count.svg)
