@@ -1,9 +1,9 @@
-## Hey, I'm Katie. 💕
+## Hey friends, I'm Katie. 💕
 
 
 ![Visitor Count](https://profile-counter.glitch.me/heykatie/count.svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=heykatie&color=008080&label=curious+friends)
+![Profile Views](https://komarev.com/ghpvc/?username=heykatie&color=008080&label=paw+prints)
 <!-- style=for-the-badge -->
 
 <!--
