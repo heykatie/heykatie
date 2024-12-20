@@ -1,5 +1,7 @@
 ## Hey friends, I'm Katie. 💕
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=heykatie&show_icons=true&theme=tokyonight)
+
 
 ![Visitor Count](https://profile-counter.glitch.me/heykatie/count.svg)
 
