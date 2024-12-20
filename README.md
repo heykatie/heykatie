@@ -40,7 +40,7 @@ I’m actively looking for **fullstack developer roles** and freelance work. If 
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white) -->
 <!-- # 🔥 Backend -->
 
-## 🛠️ Tech & Tools
+# 🖥️ Tech & Tools
 - **Languages**: Python, JavaScript, SQL, HTML/CSS
 - **Frontend**: React, Redux, Tailwind CSS
 - **Backend**: Flask, Node.js, SQLAlchemy, Express
