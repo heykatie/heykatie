@@ -1,7 +1,7 @@
 ## Hey, I'm Katie. 💕
 
 
-![Visitor Count](https://profile-counter.glitch.me/heykatie/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/heykatie/count.svg?start=5)
 ![Profile Views](https://komarev.com/ghpvc/?username=heykatie)
 
 <!--
