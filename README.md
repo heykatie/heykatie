@@ -14,7 +14,7 @@ I'm currently learning **advanced React & Flask** at [App Academy](https://www.a
 
 
 ## 🚀 Open to Opportunities
-I’m actively looking for **fullstack developer roles** and freelance work. If you'd like to collaborate or just chat, feel free to [connect with me on LinkedIn](https://www.linkedin.com/in/katieleonght/).
+I’m actively looking for **fullstack developer roles** and freelance work. If you'd like to collaborate or just chat, feel free to [connect on LinkedIn](https://www.linkedin.com/in/katieleonght/).
 
 <details>
   <summary> 📫 Let's Connect! </summary>
