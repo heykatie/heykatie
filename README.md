@@ -8,7 +8,7 @@ When I'm not coding, you can find me:
 - 🌄 Exploring the great outdoors via hiking, paddleboarding, or chasing waterfalls with my two loyal companions (husky & wolfdog)
 - 💭 Philosophizing about tech, psychology, and the mysteries of the universe
 
-I'm currently learning **advanced React & Flask** at [App Academy](https://www.appacademy.io/) and working on a fullstack project called **Sage** — with a wonderful team.
+I'm currently learning **advanced React & Flask** at [App Academy](https://www.appacademy.io/) and working on a fullstack project called **Sage** — volunteer social platform designed to connect people for volunteer opportunities and community engagement.
 
 <!-- **Fun fact**: I have 5 cats and a dream to make a difference. -->
 
@@ -62,7 +62,7 @@ I’m actively looking for **fullstack developer roles** and freelance work. If 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=heykatie&theme=dark)
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=heykatie&color=008080&label=paw+prints)
+![Profile Views](https://komarev.com/ghpvc/?username=heykatie&color=008080&label=paw+prints&base=100)
 <!-- style=for-the-badge -->
 
 <!--
