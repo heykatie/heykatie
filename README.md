@@ -13,14 +13,17 @@ I'm currently learning **advanced React & Flask** at [App Academy](https://www.a
 <!-- **Fun fact**: I have 5 cats and a dream to make a difference. -->
 
 
-## 🚀 Open to Opportunities [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/katieleonght/) [![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/heykatie)
+## 🚀 Open to Opportunities
 I’m actively looking for **fullstack developer roles** and freelance work. If you'd like to collaborate or just chat, feel free to [connect with me on LinkedIn](https://www.linkedin.com/in/katieleonght/).
 
 <details>
   <summary> 📫 Let's Connect! </summary>
     <p>
-      - **GitHub**: [github.com/heykatie](https://github.com/heykatie)
-      - **LinkedIn**: [linkedin.com/in/katieleonght](https://www.linkedin.com/in/katieleonght/)
+      </a>
+  <!-- Linkedin -->
+        <a href="https://www.linkedin.com/in/katieleonght/" target="_blank"><img alt="LinkedIn"
+        src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white">
+      </a>
     </p>
 </details>
 
