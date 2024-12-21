@@ -5,7 +5,7 @@
 Welcome to my digital universe! 🚀 I’m a **Fullstack Developer** with a passion for crafting creative, immersive, and sometimes futuristic web experiences. I thrive on solving complex problems and building platforms that connect people in meaningful ways.
 
 When I'm not coding, you can find me:
-- 🌄 Exploring the great outdoors via hiking, paddleboarding, or chasing waterfalls with my two loyal companions (husky & wolfdog)
+- 🌄 Exploring the great outdoors via hiking, paddleboarding, or chasing waterfalls with my two loyal 🐕
 - 💭 Philosophizing about tech, psychology, and the mysteries of the universe
 
 I'm currently learning **advanced React & Flask** at [App Academy](https://www.appacademy.io/) and working on a fullstack project called **Sage** — volunteer social platform designed to connect people for volunteer opportunities and community engagement. Check out my       <a href='https://heykatie.github.io'><img alt='Portfolio' src='https://img.shields.io/badge/Portfolio-008080'></a> for more.
