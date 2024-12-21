@@ -1,8 +1,5 @@
 ## Hey friends, I'm Katie. 💕
 
-## 🎮 Play a Retro Game
-[Click here to play Tetris!](https://killedbyapixel.github.io/GBA/)
-
 ![Visitor Count](https://profile-counter.glitch.me/heykatie/count.svg)
 
 Welcome to my digital universe! 🚀 I’m a **Fullstack Developer** with a passion for crafting creative, immersive, and sometimes futuristic web experiences. I thrive on solving complex problems and building platforms that connect people in meaningful ways.
