@@ -8,7 +8,7 @@ When I'm not coding, you can find me:
 - 🌄 Exploring the great outdoors via hiking, paddleboarding, or chasing waterfalls with my two loyal 🐕
 - 💭 Philosophizing about tech, psychology, and the mysteries of the universe
 
-I'm currently learning **advanced React & Flask** at [App Academy](https://www.appacademy.io/) and working on a fullstack project called **Sage** — volunteer social platform designed to connect people for volunteer opportunities and community engagement. Check out my       <a href='https://heykatie.github.io'><img alt='Portfolio' src='https://img.shields.io/badge/Portfolio-008080'></a> for more.
+I'm currently learning **advanced React & Flask** at [App Academy](https://www.appacademy.io/) and working on a fullstack project called **Sage** — volunteer social platform designed to connect people for volunteer opportunities and community engagement. Check out my <a href='https://heykatie.github.io'><img alt='Portfolio' src='https://img.shields.io/badge/Portfolio-008080'></a> coming soon.
 
 <!-- **Fun fact**: I have 5 cats and a dream to make a difference. -->
 
