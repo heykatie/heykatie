@@ -1,8 +1,6 @@
 ## Hey friends, I'm Katie. 💕
 
-![Subi ASCII Art](./assets/ascii-subi.png)
-
-![Visitor Count](https://profile-counter.glitch.me/heykatie/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/heykatie/count.svg) ![Subi ASCII Art](./assets/ascii-subi.png)
 
 Welcome to my digital universe! 🚀 I’m a **Fullstack Developer** with a passion for crafting creative, immersive, and sometimes futuristic web experiences. I thrive on solving complex problems and building platforms that connect people in meaningful ways.
 
