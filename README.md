@@ -16,12 +16,12 @@ I'm currently learning **advanced React & Flask** at [App Academy](https://www.a
 ## 🚀 Open to Opportunities [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/katieleonght/) [![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/heykatie)
 I’m actively looking for **fullstack developer roles** and freelance work. If you'd like to collaborate or just chat, feel free to [connect with me on LinkedIn](https://www.linkedin.com/in/katieleonght/).
 
-<summary>
-### 📫 Let's Connect!
+<details>
+<summary> ### 📫 Let's Connect! </summary>
 - **Portfolio**: [heykatie.github.io](https://heykatie.github.io/)
 - **GitHub**: [github.com/heykatie](https://github.com/heykatie)
 - **LinkedIn**: [linkedin.com/in/katieleonght](https://www.linkedin.com/in/katieleonght/)
-</summary>
+</details>
 
 ## 🛠️ My Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
