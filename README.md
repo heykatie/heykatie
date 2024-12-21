@@ -2,6 +2,16 @@
 
 <!-- <iframe src="https://killedbyapixel.github.io/GBA/" width="400" height="300"></iframe> -->
 
+<div style="width:640px;height:480px;max-width:100%">
+        <div id="game"></div>
+      </div>
+<script type="text/javascript">
+    EJS_player = '#game';
+    EJS_gameUrl = ''; // Url to Game rom
+    EJS_core = 'n64';
+</script>
+<script src="https://www.emulatorjs.com/loader.js"></script>
+
 ![Visitor Count](https://profile-counter.glitch.me/heykatie/count.svg)
 
 Welcome to my digital universe! 🚀 I’m a **Fullstack Developer** with a passion for crafting creative, immersive, and sometimes futuristic web experiences. I thrive on solving complex problems and building platforms that connect people in meaningful ways.
