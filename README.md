@@ -1,7 +1,5 @@
 ## Hey friends, I'm Katie. 💕
 
-<iframe src="[https://www.retrogames.cc/embed/30299-sonic-the-hedgehog-usa-europe.html](https://www.retrogames.cc/embed/30299-sonic-the-hedgehog-usa-europe.html)" width="600" height="450" frameborder="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" scrolling="no"></iframe>
-
 ![Visitor Count](https://profile-counter.glitch.me/heykatie/count.svg)
 
 Welcome to my digital universe! 🚀 I’m a **Fullstack Developer** with a passion for crafting creative, immersive, and sometimes futuristic web experiences. I thrive on solving complex problems and building platforms that connect people in meaningful ways.
