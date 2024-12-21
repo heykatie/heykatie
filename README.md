@@ -1,6 +1,6 @@
 ## Hey friends, I'm Katie. 💕
 
-<iframe src="https://killedbyapixel.github.io/GBA/" width="400" height="300"></iframe>
+<!-- <iframe src="https://killedbyapixel.github.io/GBA/" width="400" height="300"></iframe> -->
 
 ![Visitor Count](https://profile-counter.glitch.me/heykatie/count.svg)
 
