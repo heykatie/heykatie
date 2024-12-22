@@ -18,13 +18,11 @@ I’m actively looking for **fullstack developer roles** and freelance work. If 
 
 <details>
   <summary> 📫 Let's Connect! </summary>
-    <p>
       </a>
   <!-- Linkedin -->
-        <a href="https://www.linkedin.com/in/katieleonght/" target="_blank"><img alt="LinkedIn"
+        <a href="https://www.linkedin.com/in/katieleonght/"target="_blank"><img alt="LinkedIn"
         src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white">
       </a>
-    </p>
 </details>
 
 ## 🛠️ My Stack
@@ -51,9 +49,13 @@ I’m actively looking for **fullstack developer roles** and freelance work. If 
 <details>
 <summary>🖥️ Tech & Tools</summary>
 - Languages: Python, JavaScript, SQL, HTML/CSS
+
 - Frontend: React, Redux, Tailwind CSS
+
 - Backend: Flask, Node.js, SQLAlchemy, Express
+
 - Databases: PostgreSQL, SQLite
+
 - Other Tools: Docker, AWS, Git, Postman, VS Code
 </details>
 
