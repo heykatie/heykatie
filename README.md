@@ -1,12 +1,16 @@
 ## Hey friends, I'm Katie. 💕
 
-![Visitor Count](https://profile-counter.glitch.me/heykatie/count.svg) ![Subi ASCII Art](./assets/ascii-subi.png)
+![Visitor Count](https://profile-counter.glitch.me/heykatie/count.svg) ![Subi ASCII Art](./assets/ascii-subi.png) ![Night Owl](https://img.shields.io/badge/Night%20Owl-%F0%9F%A5%82-blue)
 
 Welcome to my digital universe! 🚀 I’m a **Fullstack Developer** with a passion for crafting creative, immersive, and sometimes futuristic web experiences. I thrive on solving complex problems and building platforms that connect people in meaningful ways.
 
 When I'm not coding, you can find me:
 - 🌄 Exploring the great outdoors via hiking, paddleboarding, or chasing waterfalls with my two loyal 🐕
 - 💭 Philosophizing about tech, psychology, and the mysteries of the universe
+<!-- <details>
+<summary> 🎧 Bobbing my head to </summary>
+  ![Spotify](https://spotify-readme.vercel.app/api/spotify)
+</details> -->
 
 I'm currently learning **advanced React & Flask** at [App Academy](https://www.appacademy.io/) and working on a fullstack project called **Sage** — volunteer social platform designed to connect people for volunteer opportunities and community engagement. Check out my <a href='https://heykatie.github.io'><img alt='Portfolio' src='https://img.shields.io/badge/Portfolio-008080'></a> coming soon.
 
