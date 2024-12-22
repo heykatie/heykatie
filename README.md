@@ -61,7 +61,9 @@ I’m actively looking for **fullstack developer roles** and freelance work. If 
 </details>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heykatie&layout=compact&theme=dark)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=heykatie&show_icons=true&theme=radical)
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=heykatie&theme=dark)
 <!-- ![Trophy](https://github-profile-trophy.vercel.app/?username=heykatie&theme=radical) -->
 
