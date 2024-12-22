@@ -48,6 +48,7 @@ I’m actively looking for **fullstack developer roles** and freelance work. If 
 
 <details>
 <summary>🖥️ Tech & Tools</summary>
+
 - Languages: Python, JavaScript, SQL, HTML/CSS
 
 - Frontend: React, Redux, Tailwind CSS
