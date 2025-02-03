@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=05AE99FB&width=435&lines=hello+world%2C;hey+friends%2C+I'm+katie+%F0%9F%92%95)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=05AE99FB&width=435&lines=hello+world%2C;hey+friends%2C+i'm+katie+%F0%9F%92%95)](https://git.io/typing-svg)
 
 ![Visitor Count](https://profile-counter.glitch.me/heykatie/count.svg) ![Subi ASCII Art](./assets/ascii-subi.png) ![Night Owl](https://img.shields.io/badge/Night%20Owl-%F0%9F%A5%82-blue)
 
