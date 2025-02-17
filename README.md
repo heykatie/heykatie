@@ -1,6 +1,6 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=05AE99FB&width=435&lines=hello+world%2C;hey+friends%2C+i'm+katie+%F0%9F%92%95)](https://git.io/typing-svg)
 
-![Visitor Count](https://profile-counter.glitch.me/heykatie/count.svg) ![Subi ASCII Art](./assets/ascii-subi.png) ![Night Owl](https://img.shields.io/badge/Night%20Owl-%F0%9F%A5%82-blue)
+![Visitor Count](https://profile-counter.glitch.me/heykatie/count.svg) ![Subi ASCII Art](./assets/ascii-subi.png)
 
 Welcome to my digital universe! 🚀 I’m a **Fullstack Developer** with a passion for crafting creative, immersive, and sometimes futuristic web experiences. I thrive on solving complex problems and building platforms that connect people in meaningful ways.
 
@@ -12,7 +12,9 @@ When I'm not coding, you can find me:
   ![Spotify](https://spotify-readme.vercel.app/api/spotify)
 </details> -->
 
-I'm currently learning **advanced React & Flask** at [App Academy](https://www.appacademy.io/) and working on a fullstack project called **Sage** — volunteer social platform designed to connect people for volunteer opportunities and community engagement. Check out my <a href='https://heykatie.github.io'><img alt='Portfolio' src='https://img.shields.io/badge/Portfolio-008080'></a> coming soon.
+I'm currently learning **advanced React & Flask** at [App Academy](https://www.appacademy.io/) and working on a fullstack project called **Sage** — volunteer social platform designed to connect people for volunteer opportunities and community engagement. 
+
+Check out my <a href='https://heykatie.github.io'><img alt='Portfolio' src='https://img.shields.io/badge/Portfolio-008080'></a> coming soon.
 
 <!-- **Fun fact**: I have 5 cats and a dream to make a difference. -->
 
