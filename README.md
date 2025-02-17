@@ -72,7 +72,6 @@ I’m actively looking for **fullstack developer roles** and freelance work. If 
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=heykatie&theme=dark)
 <!-- ![Trophy](https://github-profile-trophy.vercel.app/?username=heykatie&theme=radical) -->
-
 ![Subi ASCII Art](./assets/ascii-subi.png)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=heykatie&color=008080&label=paw+prints&base=100)
