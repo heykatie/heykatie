@@ -16,8 +16,6 @@ Check out my <a href='https://heykatie.github.io'><img alt='Portfolio' src='http
 
 <!-- **Fun fact**: I have 5 cats and a dream to make a difference. -->
 
-![Visitor Count](https://profile-counter.glitch.me/heykatie/count.svg)
-
 ## 🚀 Open to Opportunities
 I’m actively looking for **fullstack developer roles** and freelance work. If you'd like to collaborate or just chat, feel free to [connect on LinkedIn](https://www.linkedin.com/in/katieleonght/).
 
@@ -29,6 +27,8 @@ I’m actively looking for **fullstack developer roles** and freelance work. If 
         src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white">
       </a>
 </details>
+
+![Visitor Count](https://profile-counter.glitch.me/heykatie/count.svg)
 
 ## 🛠️ My Stack
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
