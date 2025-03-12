@@ -1,7 +1,5 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=05AE99FB&width=435&lines=hello+world%2C;hey+friends%2C+i'm+katie+%F0%9F%92%95)](https://git.io/typing-svg)
 
-![Visitor Count](https://profile-counter.glitch.me/heykatie/count.svg)
-
 Welcome to my digital universe! 🚀 I’m a **Fullstack Developer** with a passion for crafting creative, immersive, and sometimes futuristic web experiences. I thrive on solving complex problems and building platforms that connect people in meaningful ways.
 
 When I'm not coding, you can find me:
@@ -18,6 +16,7 @@ Check out my <a href='https://heykatie.github.io'><img alt='Portfolio' src='http
 
 <!-- **Fun fact**: I have 5 cats and a dream to make a difference. -->
 
+![Visitor Count](https://profile-counter.glitch.me/heykatie/count.svg)
 
 ## 🚀 Open to Opportunities
 I’m actively looking for **fullstack developer roles** and freelance work. If you'd like to collaborate or just chat, feel free to [connect on LinkedIn](https://www.linkedin.com/in/katieleonght/).
