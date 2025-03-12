@@ -82,7 +82,7 @@ I’m actively looking for **fullstack developer roles** and freelance work. If 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heykatie&layout=compact&theme=dark)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=heykatie&theme=dark)
+<!-- ![GitHub Streak](https://streak-stats.demolab.com/?user=heykatie&theme=dark) -->
 <!-- ![Trophy](https://github-profile-trophy.vercel.app/?username=heykatie&theme=radical) -->
 ![Subi ASCII Art](./assets/ascii-subi.png)
 
