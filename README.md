@@ -20,7 +20,7 @@ Check out my <a href='https://heykatie.github.io'><img alt='Portfolio' src='http
 I’m actively looking for **fullstack developer roles** and freelance work. If you'd like to collaborate or just chat, feel free to [connect on LinkedIn](https://www.linkedin.com/in/katieleonght/).
 
 <details>
-  <summary> 📫 Let's Connect! </summary>
+  <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="15" height="15" /> Let's Connect! </summary>
       </a>
   <!-- Linkedin -->
         <a href="https://www.linkedin.com/in/katieleonght/"target="_blank"><img alt="LinkedIn"
