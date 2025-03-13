@@ -3,7 +3,7 @@
 Welcome to my digital universe! 🚀 I’m a **Fullstack Developer** with a passion for crafting creative, immersive, and sometimes futuristic web experiences. I thrive on solving complex problems and building platforms that connect people in meaningful ways.
 
 When I'm not coding, you can find me:
-- 🌄 Exploring the great outdoors via hiking, paddleboarding, or chasing waterfalls with my two loyal 🐕
+- 🌄 Exploring the great outdoors via hiking, paddleboarding, or chasing waterfalls with my two loyal doggos 🐕
 - 💭 Philosophizing about tech, psychology, and the mysteries of the universe
 <!-- <details>
 <summary> 🎧 Bobbing my head to </summary>
