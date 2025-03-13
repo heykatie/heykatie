@@ -12,12 +12,10 @@ When I'm not coding, you can find me:
 
 I'm currently learning **advanced React & Flask** at [App Academy](https://www.appacademy.io/) and working on a fullstack project called **Sage** — volunteer social platform designed to connect people for volunteer opportunities and community engagement. 
 
-Check out my <a href='https://heykatie.github.io'><img alt='Portfolio' src='https://img.shields.io/badge/Portfolio-008080'></a> coming soon.
-
 <!-- **Fun fact**: I have 5 cats and a dream to make a difference. -->
 
-## 🚀 Open to Opportunities
-I’m actively looking for **fullstack developer roles** and freelance work. If you'd like to collaborate or just chat, feel free to [connect on LinkedIn](https://www.linkedin.com/in/katieleonght/).
+<!-- ## 🚀 Open to Opportunities
+I’m actively looking for **fullstack developer roles** and freelance work. If you'd like to collaborate or just chat, feel free to [connect on LinkedIn](https://www.linkedin.com/in/katieleonght/). -->
 
 <details>
   <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="15" height="15" /> Let's Connect! </summary>
@@ -26,6 +24,7 @@ I’m actively looking for **fullstack developer roles** and freelance work. If 
         <a href="https://www.linkedin.com/in/katieleonght/"target="_blank"><img alt="LinkedIn"
         src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white">
       </a>
+      <a href='https://heykatie.github.io'><img alt='Portfolio' src='https://img.shields.io/badge/Portfolio-008080'></a> Coming soon.
 </details>
 
 ![Visitor Count](https://profile-counter.glitch.me/heykatie/count.svg)
