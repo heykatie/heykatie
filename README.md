@@ -17,6 +17,8 @@ I'm currently learning **advanced React & Flask** at [App Academy](https://www.a
 <!-- ## 🚀 Open to Opportunities
 I’m actively looking for **fullstack developer roles** and freelance work. If you'd like to collaborate or just chat, feel free to [connect on LinkedIn](https://www.linkedin.com/in/katieleonght/). -->
 
+<hr>
+
 <details>
   <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="15" height="15" /> Let's Connect! </summary>
       </a>
@@ -24,10 +26,12 @@ I’m actively looking for **fullstack developer roles** and freelance work. If 
         <a href="https://www.linkedin.com/in/katieleonght/"target="_blank"><img alt="LinkedIn"
         src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white">
       </a>
+  <br>
       <a href='https://heykatie.github.io'><img alt='Portfolio' src='https://img.shields.io/badge/Portfolio-008080'></a> Coming soon.
+  <br>
+  ![Visitor Count](https://profile-counter.glitch.me/heykatie/count.svg)
 </details>
 
-![Visitor Count](https://profile-counter.glitch.me/heykatie/count.svg)
 
 ## 🛠️ My Stack
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
@@ -77,7 +81,7 @@ I’m actively looking for **fullstack developer roles** and freelance work. If 
 - Other Tools: Docker, AWS, Git, Postman, VS Code
 </details>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=heykatie&show_icons=true&theme=radical)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=heykatie&show_icons=true&theme=radical) -->
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heykatie&layout=compact&theme=dark)
 
