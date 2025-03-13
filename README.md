@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=05AE99FB&width=435&lines=hello+world%2C;hey+friends%2C+i'm+katie+%F0%9F%92%95)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=400&color=05AE99FB&width=435&lines=hello+world%2C;hey+friends%2C+i'm+katie+%F0%9F%92%95)](https://git.io/typing-svg)
 
 Welcome to my digital universe! 🚀 I’m a **Fullstack Developer** with a passion for crafting creative, immersive, and sometimes futuristic web experiences. I thrive on solving complex problems and building platforms that connect people in meaningful ways.
 
