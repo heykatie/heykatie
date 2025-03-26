@@ -19,18 +19,6 @@ I’m actively looking for **fullstack developer roles** and freelance work. If 
 
 <hr>
 
-<details>
-  <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="15" height="15" /> Let's Connect! </summary>
-      </a>
-  <!-- Linkedin -->
-        <a href="https://www.linkedin.com/in/katieleonght/"target="_blank"><img alt="LinkedIn"
-        src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white">
-      </a>
-  <br>
-      <a href='https://heykatie.github.io'><img alt='Portfolio' src='https://img.shields.io/badge/Portfolio-008080'></a> Coming Soon.
-  <br>
-</details>
-
 ![Visitor Count](https://profile-counter.glitch.me/heykatie/count.svg)
 
 
@@ -134,3 +122,8 @@ Here are some ideas to get you started:
 - 🛠️ **Tech**: Express.js, PostgreSQL, REST API
 - ⚙️ **Features**: CRUD operations for spots, bookings, and reviews.
 -->
+
+<!-- <hr>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="15" height="15" />
+ <a href="https://www.linkedin.com/in/katieleonght/"target="_blank"><img alt="LinkedIn"
+        src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"> --> 
