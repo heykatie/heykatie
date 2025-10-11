@@ -1,9 +1,9 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=400&color=05AE99FB&width=435&lines=hello+world%2C;hey+friends%2C+i'm+katie+%F0%9F%92%95)](https://git.io/typing-svg)
 
-Welcome to my digital universe! 👾 I’m a **Fullstack Developer** with a passion for crafting creative, immersive, and sometimes futuristic web experiences. I thrive on solving complex problems and building platforms that connect people in meaningful ways.
+Welcome to my digital universe! 👾 I’m a **Fullstack Developer** with a passion for crafting creative, immersive, and enjoyable experiences. I thrive on solving complex problems and building platforms that connect people in meaningful ways.
 
 When I'm not coding, you can find me:
-- 🌄 Exploring the great outdoors via hiking, paddleboarding, or chasing waterfalls with my two loyal doggos 🐕
+- 🌄 Exploring the great outdoors via hiking, paddleboarding, or chasing waterfalls with my doggos 🐕
 - 💭 Philosophizing about tech, psychology, and the mysteries of the universe
 <!-- <details>
 <summary> 🎧 Bobbing my head to </summary>
@@ -18,9 +18,6 @@ When I'm not coding, you can find me:
 I’m actively looking for **fullstack developer roles** and freelance work. If you'd like to collaborate or just chat, feel free to [connect on LinkedIn](https://www.linkedin.com/in/katieleonght/). -->
 
 <hr>
-
-![Visitor Count](https://profile-counter.glitch.me/heykatie/count.svg)
-
 
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -124,6 +121,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- <hr>
+![Visitor Count](https://profile-counter.glitch.me/heykatie/count.svg)
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="15" height="15" />
  <a href="https://www.linkedin.com/in/katieleonght/"target="_blank"><img alt="LinkedIn"
         src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"> --> 
