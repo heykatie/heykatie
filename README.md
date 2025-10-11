@@ -10,7 +10,7 @@ When I'm not coding, you can find me:
   ![Spotify](https://spotify-readme.vercel.app/api/spotify)
 </details> -->
 
-I'm currently learning **advanced React & Flask** at [App Academy](https://www.appacademy.io/) and working on a fullstack project called **Sage** — volunteer social platform designed to connect people for volunteer opportunities and community engagement. 
+<!-- I'm currently learning **advanced React & Flask** at [App Academy](https://www.appacademy.io/) and working on a fullstack project called **Sage** — volunteer social platform designed to connect people for volunteer opportunities and community engagement. -->
 
 <!-- **Fun fact**: I have 5 cats and a dream to make a difference. -->
 
