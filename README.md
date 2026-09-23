@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2800&pause=700&color=05AE99&center=true&vCenter=true&width=560&lines=hello+world%2C+i%27m+katie+%F0%9F%91%8B;professional+button+pusher;probably+thinking+about+an+edge+case)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2800&pause=900&color=05AE99&center=true&vCenter=true&width=400&lines=hello+world%2C+i%27m+katie+%F0%9F%91%8B;making+things+%26+learning+as+i+go)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,7 +10,7 @@ Welcome to my digital universe!
 
 I like turning messy ideas into things that feel simple to use, and figuring out why something broke when it *definitely worked five minutes ago*.
 
-These days I'm especially interested in building projects around **real people, real workflows, and real problems**.
+Lately, I've been enjoying building projects around **real people, real workflows, and real problems**.
 
 ---
 
@@ -51,8 +51,33 @@ A customizable portfolio platform for giving projects a little more personality.
 🐾 outdoors with my dogs  
 🌊 chasing waterfalls + swimming holes  
 🍜 food adventures  
-🎧 rave is my church
+🎧 rave is my church  
 🧠 alternate timelines and parallel universes
 
+---
+
+### ✦ random fact intermission
+
+<div align="center">
+
+[![Random Facts](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3500&pause=1200&color=777777&center=true&vCenter=true&width=560&lines=octopuses+have+three+hearts+%F0%9F%90%99;sharks+are+older+than+trees+%F0%9F%A6%88;wombat+poop+is+cube-shaped;bananas+are+berries.+strawberries+aren%27t+%F0%9F%8D%8C)](https://git.io/typing-svg)
+
+</div>
+
+<br>
+
+<div align="center">
+
+<sub>resident repo supervisor ↓</sub>
+
 <img src="./assets/ascii-subi.png" alt="Subi ASCII Art" width="190">
-<sub>resident repo supervisor ↑</sub>
+
+</div>
+
+<!--
+🥚 oh hey, you found the easter egg.
+
+congratulations — you are now legally responsible for one (1) edge case.
+
+please return it in the same condition you found it.
+-->
