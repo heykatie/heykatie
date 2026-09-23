@@ -48,12 +48,11 @@ A customizable portfolio platform for giving projects a little more personality.
 
 ### ✦ side quests
 
-🐾 hiking with my dogs  
+🐾 outdoors with my dogs  
 🌊 chasing waterfalls + swimming holes  
-🍜 planning my next meal while eating my current one  
-🎧 music  
+🍜 food adventures  
+🎧 rave is my church
 🧠 alternate timelines and parallel universes
 
 <img src="./assets/ascii-subi.png" alt="Subi ASCII Art" width="190">
-
 <sub>resident repo supervisor ↑</sub>
