@@ -20,7 +20,7 @@ Lately, I've been enjoying building projects around<br>
 
 <h3>✦ skill tree</h3>
 
-<sub>things i've picked up along the way</sub>
+<sub>things i've picked up along the way:</sub>
 
 <p><strong>main quest</strong></p>
 
