@@ -52,6 +52,10 @@ Lately, I've been enjoying building projects around **real people, real workflow
 ![IndexedDB](https://img.shields.io/badge/IndexedDB-F2B8C6?style=for-the-badge)
 <div align="center">
 
+**past quests**
+
+![Ruby](https://img.shields.io/badge/Ruby-E89A9A?style=for-the-badge&logo=ruby&logoColor=fff)
+
 ﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏
 
 </div>
@@ -85,9 +89,9 @@ Lately, I've been enjoying building projects around **real people, real workflow
 <sub><b>✦ things i've worked with</b></sub>
 
 <sub>
-<code>JavaScript</code> <code>Python</code> <code>React</code> <code>Redux</code> <code>Flask</code> <code>Node.js</code> <code>Express</code>
+<code>JavaScript</code> <code>Python</code> <code>Ruby</code> <code>TypeScript</code> <code>React</code> <code>Redux</code> <code>Flask</code> <code>Node.js</code> <code>Express</code>
 <br>
-<code>PostgreSQL</code> <code>SQLite</code> <code>SQLAlchemy</code> <code>Sequelize</code> <code>Docker</code> <code>AWS</code> <code>Git</code> <code>Postman</code>
+<code>PostgreSQL</code> <code>SQLite</code> <code>SQLAlchemy</code> <code>Sequelize</code> <code>Tailwind CSS</code> <code>Vite</code> <code>Docker</code> <code>AWS</code> <code>Git</code> <code>Postman</code>
 </sub>
 
 </div>
