@@ -4,7 +4,7 @@
 
 </div>
 
-Welcome to my digital universe! 👾
+Welcome to my widdle digital corner! 👾
 
 I like turning messy ideas into things that feel simple to use, and figuring out why something broke when it *definitely worked five minutes ago*.
 
