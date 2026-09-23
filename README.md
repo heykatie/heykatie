@@ -34,8 +34,10 @@ A volunteer platform for finding events and organizing friends to volunteer toge
 🍜 **[NomNow](https://github.com/heykatie/NomNow)**  
 A full-stack food ordering app with restaurants, menus, checkout, reviews, and reordering.
 
-🧩 **[ProFolio](https://github.com/heykatie/ProFolio)**  
-A customizable portfolio platform for giving projects a little more personality.
+🐾 **[SousChef](https://github.com/heykatie/SousChef)**  
+A gamified pet recipe + meal-planning app where cooking earns XP and levels up your virtual pet.
+
+`React` `Redux` `Node.js` `Express` `Sequelize` `PostgreSQL` `AWS S3`
 
 ---
 
