@@ -4,19 +4,29 @@
 
 </div>
 
-### hi, i'm katie 👾
+### hey, it's katie here :)
 
-Welcome to my digital universe!
+Welcome to my digital universe! 👾
 
 I like turning messy ideas into things that feel simple to use, and figuring out why something broke when it *definitely worked five minutes ago*.
 
 Lately, I've been enjoying building projects around **real people, real workflows, and real problems**.
 
----
+<div align="center">
+
+﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏
+
+</div>
 
 ### ✦ currently tinkering with
 
-#### ⌨️ [Typing Test](https://github.com/heykatie/typing-test)
+<div align="center">
+
+<a href="https://github.com/heykatie/typing-test">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=heykatie&repo=typing-test&hide_border=true&bg_color=F7F4EE&title_color=05AE99&text_color=383747&icon_color=A68BC4" alt="Typing Test repository">
+</a>
+
+</div>
 
 An offline-first typing competition for an **iPad** at event booths.
 
@@ -24,29 +34,58 @@ Born from a real small-business problem: manual high scores, constant refreshing
 
 `React` `TypeScript` `Vite` `IndexedDB` `PWA`
 
----
+<div align="center">
+
+﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏
+
+</div>
 
 ### ✦ a few things i've made
 
-🌱 **[Sage](https://github.com/heykatie/Sage-by-TDZ)**  
-A volunteer platform for finding events and organizing friends to volunteer together.
+<div align="center">
 
-🍜 **[NomNow](https://github.com/heykatie/NomNow)**  
-A full-stack food ordering app with restaurants, menus, checkout, reviews, and reordering.
+<a href="https://github.com/heykatie/Sage-by-TDZ">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=heykatie&repo=Sage-by-TDZ&hide_border=true&bg_color=F7F4EE&title_color=599B78&text_color=383747&icon_color=599B78" alt="Sage repository">
+</a>
 
-🐾 **[SousChef](https://github.com/heykatie/SousChef)**  
-A gamified pet recipe + meal-planning app where cooking earns XP and levels up your virtual pet.
+<a href="https://github.com/heykatie/NomNow">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=heykatie&repo=NomNow&hide_border=true&bg_color=FFF4ED&title_color=C97B63&text_color=383747&icon_color=C97B63" alt="NomNow repository">
+</a>
 
-`React` `Redux` `Node.js` `Express` `Sequelize` `PostgreSQL` `AWS S3`
+<a href="https://github.com/heykatie/SousChef">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=heykatie&repo=SousChef&hide_border=true&bg_color=F5F0FA&title_color=9176B5&text_color=383747&icon_color=9176B5" alt="SousChef repository">
+</a>
 
----
+<a href="https://github.com/heykatie/ProFolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=heykatie&repo=ProFolio&hide_border=true&bg_color=EEF7F9&title_color=4B8FA0&text_color=383747&icon_color=4B8FA0" alt="ProFolio repository">
+</a>
 
-### ✦ things i've worked with
+</div>
 
-`JavaScript` `Python` `React` `Redux` `Flask` `Node.js` `Express`  
-`PostgreSQL` `SQLAlchemy` `Sequelize` `Docker` `AWS` `Git`
+**Sage** — finding volunteer opportunities and organizing friends to volunteer together.
 
----
+**NomNow** — full-stack food ordering with restaurants, menus, checkout, reviews, and reordering.
+
+**SousChef** — a gamified pet recipe + meal-planning app where cooking earns XP for your virtual pet.
+
+**ProFolio** — a customizable portfolio platform built to give projects a little more personality.
+
+<div align="center">
+
+﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏
+
+</div>
+
+<details>
+<summary><b>✦ open the toolbox</b></summary>
+
+<br>
+
+`JavaScript` `Python` `React` `Redux` `Flask`  
+`Node.js` `Express` `PostgreSQL` `SQLite`  
+`SQLAlchemy` `Sequelize` `Docker` `AWS` `Git` `Postman`
+
+</details>
 
 ### ✦ side quests
 
@@ -56,9 +95,13 @@ A gamified pet recipe + meal-planning app where cooking earns XP and levels up y
 🎧 rave is my church  
 🧠 alternate timelines and parallel universes
 
----
+<div align="center">
 
-### ✦ random fact intermission
+﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏
+
+</div>
+
+### ✦ unnecessary knowledge break
 
 <div align="center">
 
@@ -76,8 +119,32 @@ A gamified pet recipe + meal-planning app where cooking earns XP and levels up y
 
 </div>
 
+<details>
+<summary>classified supervisor notes</summary>
+
+<br>
+
+- accepts treats as payment
+- maintains a strict squirrel policy
+- has not approved production deployment
+- zero confirmed GitHub contributions
+- takes credit anyway
+
+</details>
+
+<br>
+
+<details>
+<summary>do not click</summary>
+
+<br>
+
+you had one job.
+
+</details>
+
 <!--
-🥚 oh hey, you found the easter egg.
+🥚 oh hey, you found the actual easter egg.
 
 congratulations — you are now legally responsible for one (1) edge case.
 
