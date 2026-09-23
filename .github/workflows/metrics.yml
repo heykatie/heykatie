@@ -20,12 +20,16 @@ jobs:
           filename: github-metrics.svg
 
           template: classic
-          base: ""
+          base: header
+          base_indepth: yes
           config_timezone: America/Los_Angeles
           config_order: isocalendar, languages
 
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          
+          plugin_calendar: yes
+          plugin_calendar_limit: 0
 
           plugin_languages: yes
           plugin_languages_details: percentage
