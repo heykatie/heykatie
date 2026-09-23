@@ -16,25 +16,6 @@ Lately, I've been enjoying building projects around<br>
 <strong>real people, real workflows, and real problems</strong>.
 </p>
 
-<p>﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏</p>
-
-<h3>✦ github lore</h3>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="./github-metrics-dark.svg"
-  >
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="./github-metrics-light.svg"
-  >
-  <img
-    src="./github-metrics-light.svg"
-    alt="Katie's GitHub Metrics"
-    width="650"
-  >
-</picture>
 
 <p>﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏</p>
 
@@ -145,6 +126,27 @@ takes credit anyway
 </p>
 
 </details>
+
+<p>﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏</p>
+
+<h3>✦ github lore</h3>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./github-metrics-dark.svg"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="./github-metrics-light.svg"
+  >
+  <img
+    src="./github-metrics-light.svg"
+    alt="Katie's GitHub Metrics"
+    width="650"
+  >
+</picture>
+
 
 <details align="center">
 <summary align="center">do not click</summary>
