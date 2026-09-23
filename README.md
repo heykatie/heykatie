@@ -1,129 +1,59 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=400&color=05AE99FB&width=435&lines=hello+world%2C;hey+friends%2C+i'm+katie+%F0%9F%92%95)](https://git.io/typing-svg)
+<div align="center">
 
-Welcome to my digital universe! 👾 I’m a **Fullstack Developer** with a passion for crafting creative, immersive, and enjoyable experiences. I thrive on solving complex problems and building platforms that connect people in meaningful ways.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2800&pause=700&color=05AE99&center=true&vCenter=true&width=560&lines=hello+world%2C+i%27m+katie+%F0%9F%91%8B;professional+button+pusher;probably+thinking+about+an+edge+case)](https://git.io/typing-svg)
 
-When I'm not coding, you can find me:
-- Exploring the great outdoors via hiking, paddleboarding, or chasing waterfalls with my doggos 🐕
-- 💭 Philosophizing about tech, psychology, and the mysteries of the universe
-<!-- <details>
-<summary> 🎧 Bobbing my head to </summary>
-  ![Spotify](https://spotify-readme.vercel.app/api/spotify)
-</details> -->
+</div>
 
-<!-- I'm currently learning **advanced React & Flask** at [App Academy](https://www.appacademy.io/) and working on a fullstack project called **Sage** — volunteer social platform designed to connect people for volunteer opportunities and community engagement. -->
+### hi, i'm katie 👾
 
-<!-- **Fun fact**: I have 5 cats and a dream to make a difference. -->
+Welcome to my digital universe!
 
-<!-- ## 🚀 Open to Opportunities
-I’m actively looking for **fullstack developer roles** and freelance work. If you'd like to collaborate or just chat, feel free to [connect on LinkedIn](https://www.linkedin.com/in/katieleonght/). -->
+I like turning messy ideas into things that feel simple to use, and figuring out why something broke when it *definitely worked five minutes ago*.
 
-<hr>
+These days I'm especially interested in building projects around **real people, real workflows, and real problems**.
 
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-F80000?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-<!-- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) --> 
-<!-- ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) -->
-<!-- ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white) --> 
-<!-- ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white) -->
+---
 
-<!-- # 🖥️ Frontend -->
-<!-- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white) -->
-<!-- # 🔥 Backend -->
+### ✦ currently tinkering with
 
-<details>
-<summary>🖥️ Tech & Tools</summary>
+#### ⌨️ [Typing Test](https://github.com/heykatie/typing-test)
 
-- Languages: Python, JavaScript, SQL, HTML/CSS
+An offline-first typing competition for an **iPad** at event booths.
 
-- Frontend: React, Redux, Tailwind CSS
+Born from a real small-business problem: manual high scores, constant refreshing, unreliable Wi-Fi, and lots of people waiting for their turn.
 
-- Backend: Flask, Node.js, SQLAlchemy, Express
+`React` `TypeScript` `Vite` `IndexedDB` `PWA`
 
-- Databases: PostgreSQL, SQLite
+---
 
-- Other Tools: Docker, AWS, Git, Postman, VS Code
-</details>
+### ✦ a few things i've made
 
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=heykatie&show_icons=true&theme=radical) -->
+🌱 **[Sage](https://github.com/heykatie/Sage-by-TDZ)**  
+A volunteer platform for finding events and organizing friends to volunteer together.
 
-<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heykatie&layout=compact&theme=dark) -->
+🍜 **[NomNow](https://github.com/heykatie/NomNow)**  
+A full-stack food ordering app with restaurants, menus, checkout, reviews, and reordering.
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com/?user=heykatie&theme=dark) -->
-<!-- ![Trophy](https://github-profile-trophy.vercel.app/?username=heykatie&theme=radical) -->
-<!-- ![Subi ASCII Art](./assets/ascii-subi.png) -->
+🧩 **[ProFolio](https://github.com/heykatie/ProFolio)**  
+A customizable portfolio platform for giving projects a little more personality.
 
-<img src="./assets/ascii-subi.png" alt="Subi ASCII Art" width="220">
+---
 
-![Profile Views](https://komarev.com/ghpvc/?username=heykatie&color=008080&label=paw+prints&base=100)
-<!-- style=for-the-badge -->
+### ✦ things i've worked with
 
-<!--
-**heykatie/heykatie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`JavaScript` `Python` `React` `Redux` `Flask` `Node.js` `Express`  
+`PostgreSQL` `SQLAlchemy` `Sequelize` `Docker` `AWS` `Git`
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### ✦ side quests
 
-## 🦄 Fun Facts About Me
-- I have 5 cats and 2 dogs (a husky & a wolfdog). 🐕🐺🐈🐈🐈🐈🐈
-- My dream is to own audiophile-quality speakers and drown in crystal-clear sound 🎧.
-- I built my own custom van for traveling and adventuring 🚐.
-- I love **philosophy** and can debate the nature of existence for hours 🧠.
-- I recently picked up **pickleball** 🏓 — and I’m surprisingly good at it!
+🐾 hiking with my dogs  
+🌊 chasing waterfalls + swimming holes  
+🍜 planning my next meal while eating my current one  
+🎧 music  
+🧠 alternate timelines and parallel universes
 
-## 🔥 Featured Projects
-🌌 **[Galactic Getaways](https://github.com/heykatie/galactic-getaways)**
-> A futuristic Airbnb clone where aliens and intergalactic travelers book stays in mind-bending spaces.
+<img src="./assets/ascii-subi.png" alt="Subi ASCII Art" width="190">
 
-- 🛠️ **Tech**: React, Flask, SQLAlchemy, Docker, AWS
-- 🚀 **Features**: Secure authentication, user bookings, interactive spot listings
-- 📸 **Preview**: ![Demo](./assets/galactic-getaways-demo.png)
-
-🐟 **[Fish Escape Game](https://github.com/heykatie/fish-escape-game)**
-> An underwater adventure game where you guide a fish through dangerous waters.
-
-- 🛠️ **Tech**: Vanilla JavaScript, HTML, CSS
-- 🎮 **Gameplay**: Dodge obstacles, collect treasures, and escape predators!
-- 📸 **Preview**: ![Demo](./assets/fish-escape-game-demo.gif)
-
-🌐 **[Airbnb API](https://github.com/heykatie/airbnb-api-project)**
-> The backend logic of an Airbnb-like app.
-
-- 🛠️ **Tech**: Express.js, PostgreSQL, REST API
-- ⚙️ **Features**: CRUD operations for spots, bookings, and reviews.
--->
-
-<!-- <hr>
-![Visitor Count](https://profile-counter.glitch.me/heykatie/count.svg)
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="15" height="15" />
- <a href="https://www.linkedin.com/in/katieleonght/"target="_blank"><img alt="LinkedIn"
-        src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"> --> 
+<sub>resident repo supervisor ↑</sub>
