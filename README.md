@@ -18,6 +18,26 @@ Lately, I've been enjoying building projects around<br>
 
 <p>﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏</p>
 
+<h3>✦ github lore</h3>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./github-metrics-dark.svg"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="./github-metrics-light.svg"
+  >
+  <img
+    src="./github-metrics-light.svg"
+    alt="Katie's GitHub Metrics"
+    width="650"
+  >
+</picture>
+
+<p>﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏</p>
+
 <h3>✦ skill tree</h3>
 
 <sub>things i've picked up along the way:</sub>
