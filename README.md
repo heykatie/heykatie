@@ -34,10 +34,13 @@ Lately, I've been enjoying building projects around **real people, real workflow
 ![Express](https://img.shields.io/badge/Express-C7C7D1?style=for-the-badge&logo=express&logoColor=222)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-8EB6D8?style=for-the-badge&logo=postgresql&logoColor=fff)
 ![SQLite](https://img.shields.io/badge/SQLite-9DD5E8?style=for-the-badge&logo=sqlite&logoColor=fff)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D8A29C?style=for-the-badge&logo=sqlalchemy&logoColor=fff)
+![Sequelize](https://img.shields.io/badge/Sequelize-A6BFE8?style=for-the-badge&logo=sequelize&logoColor=fff)
 
 **gear**
 
 ![Git](https://img.shields.io/badge/Git-EF9A88?style=for-the-badge&logo=git&logoColor=fff)
+![Vite](https://img.shields.io/badge/Vite-C3A6E8?style=for-the-badge&logo=vite&logoColor=fff)
 ![Docker](https://img.shields.io/badge/Docker-91C9F7?style=for-the-badge&logo=docker&logoColor=fff)
 ![AWS](https://img.shields.io/badge/AWS-F7C77E?style=for-the-badge&logo=amazonwebservices&logoColor=222)
 ![Postman](https://img.shields.io/badge/Postman-F4A07A?style=for-the-badge&logo=postman&logoColor=fff)
@@ -47,7 +50,6 @@ Lately, I've been enjoying building projects around **real people, real workflow
 ![TypeScript](https://img.shields.io/badge/TypeScript-8FB7E8?style=for-the-badge&logo=typescript&logoColor=fff)
 ![PWA](https://img.shields.io/badge/PWA-C3A6E8?style=for-the-badge&logo=pwa&logoColor=fff)
 ![IndexedDB](https://img.shields.io/badge/IndexedDB-F2B8C6?style=for-the-badge)
-
 <div align="center">
 
 ﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏
