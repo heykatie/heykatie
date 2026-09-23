@@ -1,10 +1,8 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2800&pause=900&color=05AE99&center=true&vCenter=true&width=340&lines=hello+world%2C+i%27m+katie+%F0%9F%91%8B)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2800&pause=900&color=05AE99&center=true&vCenter=true&width=340&lines=hello+world%2C+i%27m+katie+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 </div>
-
-### hey, it's katie here :)
 
 Welcome to my digital universe! 👾
 
@@ -12,27 +10,6 @@ I like turning messy ideas into things that feel simple to use, and figuring out
 
 Lately, I've been enjoying building projects around **real people, real workflows, and real problems**.
 
-<div align="center">
-
-﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏
-
-</div>
-
-### ✦ currently tinkering with
-
-<div align="center">
-
-<a href="https://github.com/heykatie/typing-test">
-  <img src="https://img.shields.io/badge/TYPING_TEST-offline_first-05AE99?style=for-the-badge" alt="Typing Test">
-</a>
-
-</div>
-
-An offline-first typing competition for an **iPad** at event booths.
-
-Born from a real small-business problem: manual high scores, constant refreshing, unreliable Wi-Fi, and lots of people waiting for their turn.
-
-`React` `TypeScript` `Vite` `IndexedDB` `PWA`
 
 <div align="center">
 
@@ -40,39 +17,13 @@ Born from a real small-business problem: manual high scores, constant refreshing
 
 </div>
 
-### ✦ a few things i've made
 
-<div align="center">
+### ✦ things i've worked with
 
-<a href="https://github.com/heykatie/Sage-by-TDZ">
-  <img src="https://img.shields.io/badge/SAGE-volunteer_together-599B78?style=for-the-badge" alt="Sage">
-</a>
+`JavaScript` `Python` `React` `Redux` `Flask` `Node.js` `Express`  
+`PostgreSQL` `SQLite` `SQLAlchemy` `Sequelize` `Docker` `AWS` `Git` `Postman`
 
-<a href="https://github.com/heykatie/NomNow">
-  <img src="https://img.shields.io/badge/NOMNOW-what_are_we_eating-C97B63?style=for-the-badge" alt="NomNow">
-</a>
 
-<br><br>
-
-<a href="https://github.com/heykatie/SousChef">
-  <img src="https://img.shields.io/badge/SOUSCHEF-cook_%C2%B7_earn_XP_%C2%B7_feed_pets-9176B5?style=for-the-badge" alt="SousChef">
-</a>
-
-<a href="https://github.com/heykatie/ProFolio">
-  <img src="https://img.shields.io/badge/PROFOLIO-portfolios_with_personality-4B8FA0?style=for-the-badge" alt="ProFolio">
-</a>
-
-</div>
-
-<br>
-
-**Sage** — finding volunteer opportunities and organizing friends to volunteer together.
-
-**NomNow** — full-stack food ordering with restaurants, menus, checkout, reviews, and reordering.
-
-**SousChef** — a gamified pet recipe + meal-planning app where cooking earns XP for your virtual pet.
-
-**ProFolio** — a customizable portfolio platform built to give projects a little more personality.
 
 <div align="center">
 
@@ -80,16 +31,6 @@ Born from a real small-business problem: manual high scores, constant refreshing
 
 </div>
 
-<details>
-<summary><b>✦ open the toolbox</b></summary>
-
-<br>
-
-`JavaScript` `Python` `React` `Redux` `Flask`  
-`Node.js` `Express` `PostgreSQL` `SQLite`  
-`SQLAlchemy` `Sequelize` `Docker` `AWS` `Git` `Postman`
-
-</details>
 
 ### ✦ side quests
 
@@ -99,11 +40,13 @@ Born from a real small-business problem: manual high scores, constant refreshing
 🎧 rave is my church  
 🧠 alternate timelines and parallel universes
 
+
 <div align="center">
 
 ﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏
 
 </div>
+
 
 ### ✦ unnecessary knowledge break
 
@@ -113,22 +56,22 @@ Born from a real small-business problem: manual high scores, constant refreshing
 
 </div>
 
-<br>
 
 <div align="center">
 
+﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏
+
 <sub>resident repo supervisor ↓</sub>
 
-<br>
 
 <img src="./assets/ascii-subi.png" alt="Subi ASCII Art" width="190">
 
 </div>
 
+
 <details>
 <summary>classified supervisor notes</summary>
 
-<br>
 
 - accepts treats as payment
 - maintains a strict squirrel policy
@@ -138,14 +81,13 @@ Born from a real small-business problem: manual high scores, constant refreshing
 
 </details>
 
-<br>
 
 <details>
 <summary>do not click</summary>
 
-<br>
 
 you had one job.
+
 
 </details>
 
