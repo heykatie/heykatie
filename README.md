@@ -23,7 +23,7 @@ Lately, I've been enjoying building projects around **real people, real workflow
 <div align="center">
 
 <a href="https://github.com/heykatie/typing-test">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=heykatie&repo=typing-test&hide_border=true&bg_color=F7F4EE&title_color=05AE99&text_color=383747&icon_color=A68BC4" alt="Typing Test repository">
+  <img src="https://img.shields.io/badge/TYPING_TEST-offline_first-05AE99?style=for-the-badge" alt="Typing Test">
 </a>
 
 </div>
@@ -45,22 +45,26 @@ Born from a real small-business problem: manual high scores, constant refreshing
 <div align="center">
 
 <a href="https://github.com/heykatie/Sage-by-TDZ">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=heykatie&repo=Sage-by-TDZ&hide_border=true&bg_color=F7F4EE&title_color=599B78&text_color=383747&icon_color=599B78" alt="Sage repository">
+  <img src="https://img.shields.io/badge/SAGE-volunteer_together-599B78?style=for-the-badge" alt="Sage">
 </a>
 
 <a href="https://github.com/heykatie/NomNow">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=heykatie&repo=NomNow&hide_border=true&bg_color=FFF4ED&title_color=C97B63&text_color=383747&icon_color=C97B63" alt="NomNow repository">
+  <img src="https://img.shields.io/badge/NOMNOW-what_are_we_eating-C97B63?style=for-the-badge" alt="NomNow">
 </a>
 
+<br><br>
+
 <a href="https://github.com/heykatie/SousChef">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=heykatie&repo=SousChef&hide_border=true&bg_color=F5F0FA&title_color=9176B5&text_color=383747&icon_color=9176B5" alt="SousChef repository">
+  <img src="https://img.shields.io/badge/SOUSCHEF-cook_%C2%B7_earn_XP_%C2%B7_feed_pets-9176B5?style=for-the-badge" alt="SousChef">
 </a>
 
 <a href="https://github.com/heykatie/ProFolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=heykatie&repo=ProFolio&hide_border=true&bg_color=EEF7F9&title_color=4B8FA0&text_color=383747&icon_color=4B8FA0" alt="ProFolio repository">
+  <img src="https://img.shields.io/badge/PROFOLIO-portfolios_with_personality-4B8FA0?style=for-the-badge" alt="ProFolio">
 </a>
 
 </div>
+
+<br>
 
 **Sage** — finding volunteer opportunities and organizing friends to volunteer together.
 
@@ -114,6 +118,8 @@ Born from a real small-business problem: manual high scores, constant refreshing
 <div align="center">
 
 <sub>resident repo supervisor ↓</sub>
+
+<br>
 
 <img src="./assets/ascii-subi.png" alt="Subi ASCII Art" width="190">
 
