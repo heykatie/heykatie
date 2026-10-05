@@ -14,7 +14,7 @@ jobs:
 
     steps:
       - name: Light metrics
-        uses: lowlighter/metrics@latest
+        uses: heykatie/metrics@ae046438228853f5666ae05f01b1cf04ef745cc9
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: heykatie
@@ -41,7 +41,7 @@ jobs:
           plugin_activity_limit: 5
           plugin_activity_days: 30
           plugin_activity_visibility: public
-          plugin_activity_filter: pr, review, issue, release
+          plugin_activity_filter: push, pr, review, issue, release
 
           # Keep the stats from base.header,
           # but remove its small contribution calendar
@@ -51,7 +51,7 @@ jobs:
             }
 
       - name: Dark metrics
-        uses: lowlighter/metrics@latest
+        uses: heykatie/metrics@ae046438228853f5666ae05f01b1cf04ef745cc9
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: heykatie
