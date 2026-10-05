@@ -41,7 +41,7 @@ jobs:
           plugin_activity_limit: 5
           plugin_activity_days: 30
           plugin_activity_visibility: public
-          plugin_activity_filter: push, pr, review, issue, release
+          plugin_activity_filter: pr, review, issue, release
 
           # Keep the stats from base.header,
           # but remove its small contribution calendar
