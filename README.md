@@ -16,10 +16,14 @@ Lately, I've been enjoying building projects around<br>
 <strong>real people, real workflows, and real problems</strong>.
 </p>
 
-
 <p>﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏</p>
 
-<h3>✦ skill tree</h3>
+
+<details align="center">
+
+<summary><strong>✦ skill tree</strong></summary>
+
+<br>
 
 <sub>things i've picked up along the way:</sub>
 
@@ -69,9 +73,49 @@ Lately, I've been enjoying building projects around<br>
 <img src="https://img.shields.io/badge/Ruby-E89A9A?style=for-the-badge&logo=ruby&logoColor=fff" alt="Ruby">
 </p>
 
+</details>
+
+
 <p>﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏</p>
 
-<h3>✦ side quests</h3>
+
+<details align="center">
+
+<summary><strong>✦ github lore</strong></summary>
+
+<br>
+
+<sub>some numbers from behind the scenes</sub>
+
+<br><br>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./github-metrics-dark.svg"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="./github-metrics-light.svg"
+  >
+  <img
+    src="./github-metrics-light.svg"
+    alt="Katie's GitHub Metrics"
+    width="650"
+  >
+</picture>
+
+</details>
+
+
+<p>﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏</p>
+
+
+<details align="center">
+
+<summary><strong>✦ side quests</strong></summary>
+
+<br>
 
 <p>
 🐾 outdoors with my dogs<br>
@@ -81,24 +125,34 @@ Lately, I've been enjoying building projects around<br>
 🧠 alternate timelines and parallel universes
 </p>
 
+</details>
+
+
 <p>﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏</p>
 
-<h3>✦ unnecessary knowledge break</h3>
+
+<details align="center">
+
+<summary><strong>✦ unnecessary knowledge break</strong></summary>
+
+<br>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3500&pause=1200&color=777777&center=true&vCenter=true&width=560&lines=octopuses+have+three+hearts+%F0%9F%90%99;sharks+are+older+than+trees+%F0%9F%A6%88;wombat+poop+is+cube-shaped;bananas+are+berries.+strawberries+aren%27t+%F0%9F%8D%8C" alt="Random Facts">
 </a>
 
+</details>
+
+
 <p>﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏</p>
+
 
 <sub>resident repo supervisor ↓</sub>
 
 
 <img src="./assets/ascii-subi.png" alt="Subi ASCII Art" width="190">
 
-<br>
-
-<sub><strong>✦ things i've worked with</strong></sub>
+<sub><strong>✦ things he's worked with</strong></sub>
 
 <p>
 <sub>
@@ -112,8 +166,9 @@ Lately, I've been enjoying building projects around<br>
 <code>Git</code> <code>Postman</code>
 </sub>
 </p>
-
+<br>
 <details align="center">
+
 <summary align="center">classified supervisor notes</summary>
 
 <p align="center">
@@ -126,14 +181,14 @@ takes credit anyway
 
 </details>
 
-<p>﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏</p>
-
 <details align="center">
+
 <summary align="center">do not click</summary>
 
 <p align="center">you had one job.</p>
 
 </details>
+
 
 <!--
 🥚 oh hey, you found the actual easter egg.
