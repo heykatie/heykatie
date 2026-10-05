@@ -93,7 +93,6 @@ Lately, I've been enjoying building projects around<br>
 
 <sub>resident repo supervisor ↓</sub>
 
-<br>
 
 <img src="./assets/ascii-subi.png" alt="Subi ASCII Art" width="190">
 
@@ -128,25 +127,6 @@ takes credit anyway
 </details>
 
 <p>﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏</p>
-
-<h3>✦ github lore</h3>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="./github-metrics-dark.svg"
-  >
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="./github-metrics-light.svg"
-  >
-  <img
-    src="./github-metrics-light.svg"
-    alt="Katie's GitHub Metrics"
-    width="650"
-  >
-</picture>
-
 
 <details align="center">
 <summary align="center">do not click</summary>
