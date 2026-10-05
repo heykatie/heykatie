@@ -14,7 +14,7 @@ jobs:
 
     steps:
       - name: Light metrics
-        uses: heykatie/metrics@ae046438228853f5666ae05f01b1cf04ef745cc9
+        uses: heykatie/metrics@19ddd4dc40572ffd2fcc8531b65a0878efaa98b4
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: heykatie
@@ -51,7 +51,7 @@ jobs:
             }
 
       - name: Dark metrics
-        uses: heykatie/metrics@ae046438228853f5666ae05f01b1cf04ef745cc9
+        uses: heykatie/metrics@19ddd4dc40572ffd2fcc8531b65a0878efaa98b4
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: heykatie
