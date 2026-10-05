@@ -19,19 +19,36 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: heykatie
           filename: github-metrics-light.svg
+          output_action: commit
 
           template: classic
           base: header
           base_indepth: yes
+
           config_timezone: America/Los_Angeles
-          config_order: base.header, calendar, languages
+          config_order: base.header, languages, activity
 
-          plugin_calendar: yes
-          plugin_calendar_limit: 0
-
+          # Languages
           plugin_languages: yes
+          plugin_languages_indepth: yes
           plugin_languages_details: percentage
-          plugin_languages_limit: 8
+          plugin_languages_limit: 6
+          plugin_languages_analysis_timeout: 60
+          plugin_languages_analysis_timeout_repositories: 10
+
+          # Recent GitHub activity
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 30
+          plugin_activity_visibility: public
+          plugin_activity_filter: push, pr, review, issue, release
+
+          # Keep the stats from base.header,
+          # but remove its small contribution calendar
+          extras_css: |
+            .calendar {
+              display: none !important;
+            }
 
       - name: Dark metrics
         uses: lowlighter/metrics@latest
@@ -39,28 +56,49 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: heykatie
           filename: github-metrics-dark.svg
+          output_action: commit
 
           template: classic
           base: header
           base_indepth: yes
+
           config_timezone: America/Los_Angeles
-          config_order: base.header, calendar, languages
+          config_order: base.header, languages, activity
 
-          plugin_calendar: yes
-          plugin_calendar_limit: 0
-
+          # Languages
           plugin_languages: yes
+          plugin_languages_indepth: yes
           plugin_languages_details: percentage
-          plugin_languages_limit: 8
+          plugin_languages_limit: 6
+          plugin_languages_analysis_timeout: 60
+          plugin_languages_analysis_timeout_repositories: 10
 
+          # Recent GitHub activity
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 30
+          plugin_activity_visibility: public
+          plugin_activity_filter: push, pr, review, issue, release
+
+          # Dark theme + remove the small contribution calendar
           extras_css: |
+            .calendar {
+              display: none !important;
+            }
+
             :root {
               --color-calendar-graph-day-bg: #21262d !important;
             }
 
+            svg {
+              background: #0d1117 !important;
+              color: #c9d1d9 !important;
+            }
+
             body,
             .field,
-            .field svg {
+            .field svg,
+            small {
               color: #c9d1d9 !important;
             }
 
@@ -69,8 +107,4 @@ jobs:
             h3,
             .field-title {
               color: #f0f6fc !important;
-            }
-
-            svg {
-              background: #0d1117 !important;
             }
