@@ -13,11 +13,10 @@ Lately, I've been enjoying building projects around<br>
 </p>
 
 <div>﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏</div>
-
+<br>
 <details align="center">
 <summary><strong>✦ skill tree</strong></summary>
 
-<sub>things i've picked up along the way</sub>
 
 <br>
 
@@ -63,11 +62,10 @@ Lately, I've been enjoying building projects around<br>
 </details>
 
 <div>﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏</div>
-
+<br>
 <details align="center" open>
 <summary><strong>✦ github lore</strong></summary>
 
-<sub>some numbers from behind the scenes</sub>
 
 <br>
 
@@ -90,10 +88,10 @@ Lately, I've been enjoying building projects around<br>
 </details>
 
 <div>﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏</div>
-
+<br>
 <details align="center">
 <summary><strong>✦ side quests</strong></summary>
-
+<br>
 <p>
 🐾 outdoors with my dogs<br>
 🌊 chasing waterfalls + swimming holes<br>
@@ -105,7 +103,7 @@ Lately, I've been enjoying building projects around<br>
 </details>
 
 <div>﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏</div>
-
+<br>
 <details align="center">
 <summary><strong>✦ unnecessary knowledge break</strong></summary>
 
@@ -116,7 +114,7 @@ Lately, I've been enjoying building projects around<br>
 </details>
 
 <div>﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏</div>
-
+<br>
 <sub>resident repo supervisor ↓</sub><br>
 <img src="./assets/ascii-subi.png" alt="Subi ASCII Art" width="190"><br>
 <sub><strong>✦ things he's worked with</strong></sub>
@@ -136,6 +134,7 @@ Lately, I've been enjoying building projects around<br>
 <summary align="center">classified supervisor notes</summary>
 
 <p align="center">
+  <br>
 accepts treats as payment<br>
 maintains a strict squirrel policy<br>
 has not approved production deployment<br>
