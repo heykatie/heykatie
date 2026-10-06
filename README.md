@@ -13,6 +13,33 @@ Lately, I've been enjoying building projects around<br>
 </p>
 
 <div>﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏</div>
+
+<br>
+<details align="center" open>
+<summary><strong>✦ github lore</strong></summary>
+
+
+<br>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./github-metrics-dark.svg"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="./github-metrics-light.svg"
+  >
+  <img
+    src="./github-metrics-light.svg"
+    alt="Katie's GitHub Metrics"
+    width="500"
+  >
+</picture>
+
+</details>
+
+<div>﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏</div>
 <br>
 <details align="center">
 <summary><strong>✦ skill tree</strong></summary>
@@ -58,32 +85,6 @@ Lately, I've been enjoying building projects around<br>
 
 <strong>past quests</strong><br>
 <img src="https://img.shields.io/badge/Ruby-E89A9A?style=for-the-badge&logo=ruby&logoColor=fff" alt="Ruby">
-
-</details>
-
-<div>﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏</div>
-<br>
-<details align="center" open>
-<summary><strong>✦ github lore</strong></summary>
-
-
-<br>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="./github-metrics-dark.svg"
-  >
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="./github-metrics-light.svg"
-  >
-  <img
-    src="./github-metrics-light.svg"
-    alt="Katie's GitHub Metrics"
-    width="500"
-  >
-</picture>
 
 </details>
 
