@@ -3,13 +3,11 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2800&pause=900&color=05AE99&center=true&vCenter=true&width=390&lines=hello+world%2C+katie+here+%F0%9F%99%8B%F0%9F%8F%BB%E2%80%8D%E2%99%80%EF%B8%8F" alt="Typing SVG">
 </a>
-
+<br>
 <p>
-Welcome to my digital universe! 👾<br><br>
-I like turning messy ideas into things that feel simple to use,<br>
-and figuring out why something broke when it <em>definitely worked five minutes ago</em>.<br><br>
-Lately, I've been enjoying building projects around<br>
-<strong>real people, real workflows, and real problems</strong>.
+Welcome to my digital universe! 👾<br>
+Just tinkering around, squashing bugs, and building things that solves 
+<strong>real</strong> problems for <strong>real</strong> people.
 </p>
 
 <div>﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏</div>
