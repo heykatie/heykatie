@@ -114,7 +114,7 @@ Just tinkering around, squashing bugs, and building things that solves
 
 <div>﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏</div>
 <br>
-<sub>resident repo supervisor ↓</sub><br>
+<p>resident repo supervisor ↓</p>
 <img src="./assets/ascii-subi.png" alt="Subi ASCII Art" width="190"><br>
 <sub><strong>✦ things he's worked with</strong></sub>
 
