@@ -5,7 +5,7 @@
 </a>
 <br>
 <p>
-Welcome to my digital universe! 👾<br>
+Welcome to my digital corner! 👾<br>
 Just tinkering around, squashing bugs, and building things that solves 
 <strong>real</strong> problems for <strong>real</strong> people.
 </p>
