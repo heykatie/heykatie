@@ -40,12 +40,12 @@
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -68,18 +68,18 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 18.8mb of code in 4571 edited files across 1117 commits</small>
+                <small>estimation from 19mb of code in 4817 edited files across 1163 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="191.48939757044872" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="191.48939757044872" y="0" width="112.59337244855797" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="304.0827700190067" y="0" width="60.12691513098091" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="364.20968514998765" y="0" width="59.791256920915636" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="424.0009420709033" y="0" width="35.56152384100488" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="459.5624659119082" y="0" width="0.43753408809189326" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="180.34387486516314" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="180.34387486516314" y="0" width="106.03994439973663" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="286.3838192648998" y="0" width="69.03619465073166" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="355.42001391563144" y="0" width="59.580118391826204" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="415.00013230745765" y="0" width="44.58780000716017" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="459.58793231461783" y="0" width="0.4120676853822051" height="8" fill="#384d54"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -91,7 +91,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>41.63%</div>
+                                <div>39.21%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -102,7 +102,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>13.07%</div>
+                                <div>15.01%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -113,7 +113,7 @@
                                 TSX
                             </div>
                             <small>
-                                <div>7.73%</div>
+                                <div>9.69%</div>
                             </small>
                         </div>
                     </section>
@@ -126,7 +126,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>24.48%</div>
+                                <div>23.05%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -137,7 +137,7 @@
                                 CSS
                             </div>
                             <small>
-                                <div>13%</div>
+                                <div>12.95%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -148,7 +148,7 @@
                                 Dockerfile
                             </div>
                             <small>
-                                <div>0.1%</div>
+                                <div>0.09%</div>
                             </small>
                         </div>
                     </section>
@@ -171,12 +171,12 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#72 Name the board on the Continue previous tile</span>
+                                        <span class="issue">#96 Improve Hop controls and add secret shortcut</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">heykatie/clickclackchallenge</span></div>
-                                    <div>4 files changed <span class="code">++12 --4</span></div>
+                                    <div>8 files changed <span class="code">++186 --28</span></div>
                                 </div>
                             </section>
                         </div>
@@ -188,12 +188,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#72 Name the board on the Continue previous tile</span>
+                                        <span class="issue">#96 Improve Hop controls and add secret shortcut</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">heykatie/clickclackchallenge</span></div>
-                                    <div>4 files changed <span class="code">++12 --4</span></div>
+                                    <div>8 files changed <span class="code">++186 --28</span></div>
                                 </div>
                             </section>
                         </div>
@@ -205,12 +205,12 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#71 Block rude symbol drawings in names</span>
+                                        <span class="issue">#95 Poll for app updates on mobile</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">heykatie/clickclackchallenge</span></div>
-                                    <div>3 files changed <span class="code">++35 --0</span></div>
+                                    <div>7 files changed <span class="code">++135 --8</span></div>
                                 </div>
                             </section>
                         </div>
@@ -222,12 +222,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#71 Block rude symbol drawings in names</span>
+                                        <span class="issue">#95 Poll for app updates on mobile</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">heykatie/clickclackchallenge</span></div>
-                                    <div>3 files changed <span class="code">++35 --0</span></div>
+                                    <div>7 files changed <span class="code">++135 --8</span></div>
                                 </div>
                             </section>
                         </div>
@@ -239,12 +239,12 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#70 Scenario tests, a name-filter fix, and accuracy gates that match what contestants see</span>
+                                        <span class="issue">#94 Fix phone rotation and landscape layouts</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">heykatie/clickclackchallenge</span></div>
-                                    <div>14 files changed <span class="code">++640 --32</span></div>
+                                    <div>15 files changed <span class="code">++352 --11</span></div>
                                 </div>
                             </section>
                         </div>
