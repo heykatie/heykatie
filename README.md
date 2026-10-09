@@ -4,11 +4,20 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2800&pause=900&color=05AE99&center=true&vCenter=true&width=390&lines=hello+world%2C+katie+here+%F0%9F%99%8B%F0%9F%8F%BB%E2%80%8D%E2%99%80%EF%B8%8F" alt="Typing SVG">
 </a>
 <br>
-<p>
-Welcome to my digital corner! 👾<br>
-Just tinkering around, squashing bugs (that actually don't scare me), <br> and building things that solves 
-<strong>real</strong> problems for <strong>real</strong> people.
-</p>
+
+</div>
+
+```js
+function katie() {
+  console.log("welcome to my digital corner!");
+  tinker();
+  squashBugs(); // not the scary kind 👾
+  build("things that hopefully make life a little better");
+}
+
+katie();
+```
+<div align="center">
 
 <div>﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏</div>
 
