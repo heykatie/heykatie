@@ -6,7 +6,7 @@
 <br>
 <p>
 Welcome to my digital corner! 👾<br>
-Just tinkering around, squashing bugs (that actually don't scare me), and building things that solves 
+Just tinkering around, squashing bugs (that actually don't scare me), <br> and building things that solves 
 <strong>real</strong> problems for <strong>real</strong> people.
 </p>
 
