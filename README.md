@@ -134,8 +134,7 @@ Just tinkering around, squashing bugs (that actually don't scare me), <br> and b
 
 <p align="center">
   <br>
-accepts treats as payment<br>
-maintains a strict squirrel policy<br>
+accepts cheese as payment<br>
 has not approved production deployment<br>
 zero confirmed GitHub contributions<br>
 takes credit anyway
